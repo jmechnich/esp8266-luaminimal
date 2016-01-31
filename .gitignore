@@ -1,0 +1,6 @@
+*~
+/.timestamp
+/.espuploadrc
+/local.lua
+/schematic/*.bak
+/schematic/*.lib
